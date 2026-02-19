@@ -1,0 +1,8 @@
+// Environment attributes - replaced by Showroom at runtime
+:openshift_console_url: {openshift_cluster_console_url}
+:openshift_api_url: {openshift_cluster_api_url}
+:admin_user: {openshift_cluster_admin_username}
+:admin_password: {openshift_cluster_admin_password}
+:ocp_version: 4.20
+:ocpvirt_version: 4.20
+:fusion_version: 2.12

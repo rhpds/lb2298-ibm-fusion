@@ -1,0 +1,10 @@
+name: modules
+title: "Modernizing Virtualization with Red Hat OpenShift Virtualization and IBM Fusion: A Hands-On Lab"
+version: master
+start_page: index.adoc
+nav:
+  - modules/ROOT/nav.adoc
+
+asciidoc:
+  attributes:
+    lab_name: "lb2298-modernizing-virtualization-openshift-virtualization-ibm-fusion"

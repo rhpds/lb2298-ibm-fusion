@@ -1,0 +1,21 @@
+site:
+  title: "Modernizing Virtualization with Red Hat OpenShift Virtualization and IBM Fusion: A Hands-On Lab"
+  start_page: modules::index.adoc
+
+content:
+  sources:
+    - url: ./
+      start_path: content
+
+ui:
+  bundle:
+    url: https://github.com/rhpds/showroom-ui/releases/latest/download/ui-bundle.zip
+    snapshot: true
+  supplemental_files: ./supplemental-ui
+
+runtime:
+  fetch: true
+
+asciidoc:
+  attributes:
+    source-highlighter: rouge

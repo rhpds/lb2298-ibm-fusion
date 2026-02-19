@@ -1,0 +1,55 @@
+= Modernizing Virtualization with Red Hat OpenShift Virtualization and IBM Fusion
+include::partial$_attributes.adoc[]
+
+Welcome to the Modernizing Virtualization with Red Hat OpenShift Virtualization and IBM Fusion hands-on lab!
+
+== What you will learn
+
+In this workshop, you will:
+
+* Explore the OpenShift Virtualization and IBM Fusion environment
+* Create and manage virtual machines on Red Hat OpenShift
+* Work with IBM Fusion-backed persistent storage for VM workloads
+* Perform VM lifecycle operations including live migration, snapshots, and cloning
+* Plan and execute workload migrations from legacy virtualization platforms
+
+== Who this is for
+
+This workshop is designed for architects, SREs, infrastructure engineers, and platform engineers who want to learn how to modernize virtualization workloads using Red Hat OpenShift Virtualization integrated with IBM Fusion.
+
+**Experience level**: Beginner to Intermediate
+
+== Prerequisites
+
+Before starting this workshop, you should have:
+
+* Basic familiarity with Red Hat OpenShift concepts (projects, pods, operators)
+* General understanding of virtualization technology (VMs, hypervisors, storage)
+* Comfort working with a web-based console and command line interface
+
+== Workshop environment
+
+This lab provides a fully configured environment with:
+
+* Red Hat OpenShift {ocp_version} multinode cluster
+* OpenShift Virtualization {ocpvirt_version} operator installed and configured
+* IBM Fusion {fusion_version} providing enterprise storage integration
+* Cluster admin access for all exercises
+
+You will have access to:
+
+* OpenShift console: {openshift_console_url}
+* Username: {admin_user}
+* Password: {admin_password}
+
+NOTE: All environment details and credentials are available in the lab interface.
+
+== Estimated time
+
+This workshop will take approximately **90 minutes** to complete.
+
+You can work at your own pace.
+
+== Let's get started!
+
+Click on **Workshop Overview** in the navigation to begin your learning journey.

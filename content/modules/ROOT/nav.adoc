@@ -1,0 +1,10 @@
+* xref:index.adoc[Home]
+
+* xref:01-overview.adoc[Workshop Overview]
+
+* xref:02-details.adoc[Workshop Details]
+
+* xref:03-module-01.adoc[Module 1: Exploring the Environment]
+** xref:03-module-01.adoc#exercise-1[Exercise 1: Navigating the OpenShift Console]
+** xref:03-module-01.adoc#exercise-2[Exercise 2: Exploring IBM Fusion Storage Integration]
+** xref:03-module-01.adoc#exercise-3[Exercise 3: Creating Your First Virtual Machine]
