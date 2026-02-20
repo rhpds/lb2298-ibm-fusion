@@ -3,7 +3,7 @@ title: "Modernizing Virtualization with Red Hat OpenShift Virtualization and IBM
 version: master
 start_page: index.adoc
 nav:
-  - modules/ROOT/nav.adoc
+- modules/ROOT/nav.adoc
 
 asciidoc:
   attributes:
